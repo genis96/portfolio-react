@@ -18,7 +18,7 @@ export const Button = ({
 
     return (
         <Link to="/skills">
-            <button onClick={onClick} type={type} className={`btn ${checkBtnStyle} ${checkBtnSize}`}>
+            <button a href="https://github.com/genis96/React-User-Directory"  onClick={onClick} type={type} className={`btn ${checkBtnStyle} ${checkBtnSize}`}>
                 {children}
             </button>
         </Link>
