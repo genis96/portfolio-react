@@ -6,7 +6,7 @@
 }
 
 .home,
-.projects,
+/* .projects, */
 .skills,
 .contactme {
   display: flex;
@@ -16,15 +16,15 @@
   font-size: 3rem;
 }
 
-.projects {
-  /* background-image: url('/images/img3.jpg'); */
+/* .projects {
+  background-image: url('/images/img3.jpg');
   background-color: #ebebeb;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
-}
+} */
 
 .skills {
   /* background-image: url('/images/img3.jpg'); */

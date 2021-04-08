@@ -1,0 +1,238 @@
+/* body {
+    width: 100%;
+    min-height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    background: #fff;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+
+}
+
+.main {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.header {
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 105vh;
+    color: #000;
+    background: url(/src/images/img1.jpg) no-repeat top center/cover;
+    background-attachment: fixed;
+    overflow: hidden;
+    flex-direction: column;
+    overflow: hidden;
+} */
+
+/* Nav */
+/* .navbar {
+    display: flex; */
+    /* position: fixed; */
+    /* justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 0px;
+    height: 10vh;
+    width: 100%; */
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    /* background-color: transparent;
+    z-index: 5;
+    line-height: 2rem;
+    letter-spacing: 5px;
+    font-weight: 200;
+    scroll-behavior: smooth;
+}
+
+.logo {
+    position: absolute;
+    left: 45px;
+    font-size: 6.5vh;
+    color: #000;
+    cursor: pointer;
+    font-weight: lighter;
+}
+
+.menu {
+    display: flex;
+    position: relative;
+    /* padding-left: 10%;
+    padding-right: 10%; */
+    /* padding: auto;
+    float: right;
+    justify-content: space-between;
+    width: 30%;
+    right: -20rem;
+    font-size: 2rem;
+}
+
+.menu li {
+    display: inline; */
+    /* justify-content: space-evenly; */
+/* }
+
+.menu li a {
+    color: var(--primary-color);
+    margin-right: -2em;
+}
+
+.menu li a:hover {
+    color: var(--backup-color);
+} */
+
+/* Header Content */
+/* .header-content {
+    display: flex;
+    position: relative;   
+    margin-top: 200px;    
+    color: black;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.headline {
+    display: inline-flexbox;
+    position: relative;
+    color: black;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: transparent;
+    color: var(--backup-color);
+
+}
+
+.headline h1 {
+    font-size: 3rem;
+    font-weight: lighter;
+}  */
+
+
+/* Buttons */
+/* .main-btn {
+    font-size: 1.5rem;
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 1rem 1rem;
+    letter-spacing: 3px;
+    margin-right: 5px;
+    margin-left: 5px;
+    position: relative;
+    right: -30rem;
+    border-radius: 2px;
+    font-weight: lighter;
+} */
+
+/* reach out btn */
+/* .main-btn:hover {
+    color: #fff;
+    background: var(--backup-color);
+    transition: all 650ms;
+}
+
+
+.other-btn {
+    position: relative;
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 1.2rem 2rem;
+    letter-spacing: 3px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 2px;
+    font-weight: lighter;
+}
+
+.other-btn:hover {
+    color: #000;
+    background: var(--backup-color);
+    transition: all 650ms;
+} */
+
+/* the horizontal line */
+/* hr {
+    width: 47rem;
+    border-color: var(--primary-color);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 7px;
+    margin-bottom: 5px;
+} */
+
+
+/* PROJECTS SECTION */
+
+/* section #projects{
+    margin-top: 10%;
+} */
+/* 
+.projects {
+    width: 100%;
+    height: 75vh;
+    position:relative;
+    margin-top: 30% !important;
+}
+
+h1 .the-projects-title {
+    font-size: 10px !important;
+}
+
+.card-body {
+    text-align: left;
+    padding-left: 0%;
+}
+
+.card-body a {
+    color: black;
+    text-decoration: none;
+    list-style: none;
+}
+
+.card-body h1 a:hover {
+    cursor: pointer;
+    color: var(--primary-color);
+    text-decoration: none;
+    list-style: none;
+} */
+
+/* RESPONSIVE  */
+
+/* @media(max-width: 1400px) {
+    .menu,
+    .main-btn {
+        display: none;
+    }
+    .headline h1 {
+        font-size: 3rem;
+    }
+    .headline h3 {
+        font-size: 2.5rem;
+    }
+    hr {
+        width: 45rem;
+    }
+}
+
+@media(max-width: 750px) {
+    .headline h1 {
+        font-size: 2.5rem;
+    }
+    .headline h3 {
+        font-size: 2.3rem;
+    }
+    .header-content {
+        margin-top: 200px;
+    }
+    hr {
+        width: 37rem;
+    }
+} */
